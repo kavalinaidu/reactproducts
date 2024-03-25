@@ -1,0 +1,23 @@
+.cart{
+    padding-top: 5.2rem;
+    background-color: #5585b5;
+    height: 200vh;
+    width: 100%;
+    
+}
+.cart-item{
+    height: 25rem;
+    margin-left: 10rem;
+}
+.cart-details{
+    margin-left: 7rem;
+}
+.btn1{
+    margin-left: 5rem;
+    font-size: 1rem;
+    width: 5rem;
+    margin-top: 1rem;
+}
+.cart h1{
+    margin-left: 10rem  ;
+}
